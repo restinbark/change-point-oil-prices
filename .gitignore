@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# VS Code
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Data files (optional, if too large or sensitive)
+*.csv
+!data/events_data.csv
+!data/brent_oil_prices.csv
+
+# Reports
+*.pdf
