@@ -50,8 +50,8 @@ change-point-oil-prices/
 
 ## 📈 Visual Exploration of Brent Oil Prices
 
-![Brent Oil Price](../images/fig_brent_price.png)
-![Log Returns](../images/fig_log_returns.png)
+![Brent Oil Price](/images/fig_brent_price.png)
+![Log Returns](/images/fig_log_returns.png)
 
 
 
