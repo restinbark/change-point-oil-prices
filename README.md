@@ -51,11 +51,10 @@ change-point-oil-prices/
 ## 📈 Visual Exploration of Brent Oil Prices
 
 ### Raw Brent Oil Price Time Series
-![Brent Oil Price](../reports/fig_brent_price.png)
+![alt text](fig_brent_price.png)
 
 ### Log Returns of Brent Oil Price
-![Log Returns](../reports/fig_log_returns.png)
-
+![alt text](fig_log_returns.png)
 🛠️ Technologies Used
 Python
 
